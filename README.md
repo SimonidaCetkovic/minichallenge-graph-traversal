@@ -7,7 +7,11 @@ Problem statement:
 We are building an autocomplete feature for retrieving words from a dictionary, where the first letters of each word match the entered text. Return complete words that begin with the entered text ordered by length, then by alphabetical order.
 
 Guiding questions:
-* What kind of graph is used in the code?
-* What graph traversal algorithms do you know?
-* Which graph traversal algorithm is used in the sample code?
-* Does the code satisfy all aspects of the problem statement?
+
+a. What kind of graph is used in the code?
+
+b. What graph traversal algorithms do you know?
+
+c. Which graph traversal algorithm is used in the sample code?
+
+d. Does the code satisfy all aspects of the problem statement?
